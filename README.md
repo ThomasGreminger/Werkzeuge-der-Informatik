@@ -11,4 +11,4 @@ So schöne Sachen kann man mit Jupyter und Python machen
 ![1772px-Basel_-_Münsterpanorama_Juni_2019](https://miro.medium.com/max/1400/1*ezJx8ZEu1Va14iscq_h5Gg.png)
 
 
-You can even [link to Google!](http://google.com)
+Das ist ein guter Start, um zu beginnen [link to Jupyter Tutorial!](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
